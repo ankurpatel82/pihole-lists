@@ -9300,7 +9300,6 @@ ak.imgfarm.com
 ak.maxserving.com
 ak.progofficial.top
 ak.quantcast.com
-ak.sail-horizon.com
 ak0gsh40.com
 ak1.abmr.net
 ak1s.abmr.net
