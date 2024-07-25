@@ -11523,7 +11523,6 @@ analytics.getshogun.com
 analytics.gismart.xyz
 analytics.glance.inmobi.com
 analytics.global.sky.com
-analytics.google.com
 analytics.gotama.link
 analytics.greenmountain.com
 analytics.greenmountainenergy.com
@@ -19363,7 +19362,6 @@ browsebahrain.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-tools.systems
-browser.pipe.aria.microsoft.com
 browseraccelerator.com
 browsergames2018.com
 browsergames2019.com
@@ -21951,7 +21949,6 @@ cdn.connectad.io
 cdn.constafun.com
 cdn.contentspread.net
 cdn.contineljs.com
-cdn.cookielaw.org
 cdn.cpmstar.com
 cdn.cpxinteractive.com
 cdn.cquotient.com
@@ -28081,7 +28078,6 @@ dashboard.imap.contoh.ilmubaru.com
 dashboard.old.hollidz.com
 dashboard.remote.contoh.ilmubaru.com
 dashboard.scotiacolpatrri.app
-dashboard.tinypass.com
 dashboardnew.adcalls.nl
 dashboardprompt.com
 dashduel.com
@@ -30933,7 +30929,6 @@ dpdpostehuapp.lat
 dpflyingoncs.top
 dpi.trdechat.top
 dpiprodesntls.112.2o7.net
-dpm.demdex.net
 dpmsrv.com
 dportalevents.com
 dppd.064512554.xyz
@@ -40979,9 +40974,6 @@ googlecm.hit.gemius.pl
 googledrive-en.com
 googleguides.com
 googleshopping.sapoapps.vn
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
 googlus.com
 googlwe.com
 googlyboy.com
@@ -59460,7 +59452,6 @@ mobile.logs.roku.com
 mobile.measurelib.com
 mobile.mng-ads.com
 mobile.novanet.vn
-mobile.pipe.aria.microsoft.com
 mobile.smartadserver.com
 mobile.webvisor.com
 mobile.yandexadexchange.net
@@ -74337,7 +74328,6 @@ reportmetacenter.servehttp.com
 reports-api.oncustomer.asia
 reports.extreme-dm.com
 reports.ubimo.com
-reports.wes.df.telemetry.microsoft.com
 reportthescam.com
 repostuj.push-ad.com
 repqgn7zzss.click
@@ -80924,7 +80914,6 @@ sqlservercentral.us.intellitxt.com
 sqlsxpxostafbd.icu
 sqlsxpxostafbdai.icu
 sqm.lxw7.cc
-sqm.telemetry.microsoft.com
 sqo.4asx.icu
 sqtyauit.site
 squacre.com
@@ -81938,7 +81927,6 @@ statse.webtrendslive.com #[SDC Advanced Tracking Code]
 statserv.net
 statsf-tm.everesttech.net
 statsf.tubemogul.com
-statsfe2.ws.microsoft.com
 statsie.com
 statsp.fpop.net
 statstracker.celebrity-gossip.net
@@ -84002,7 +83990,6 @@ targad.de
 targediadroga.rent
 target.cm
 target.e-generator.com
-target.microsoft.com
 target.smi2.net
 target2sell.com
 targeting.api.drift.com
@@ -84501,7 +84488,6 @@ tele.oewabox.at
 tele2nl.112.2o7.net
 telecharger-openoffice.fr
 telecom-info.com
-telecommand.telemetry.microsoft.com
 teleconcert.com
 telecte.chimman.top
 teledreams.shop
@@ -90216,7 +90202,6 @@ v1.extreme-dm.com
 v1.nedstatbasic.net
 v1.viayonetici.com
 v10.xmlsearch.miva.com #[Adware.Zeno]
-v10c.events.data.microsoft.com
 v16.56.com
 v1adserver.com
 v1brantc7trus.quest
@@ -93881,7 +93866,6 @@ waterwhispers.xyz
 wateryvan.com
 watppq.mastertrd.xyz
 wats.open-sooursee.live
-watson.telemetry.microsoft.com
 watsonpfuh.com
 watstrade.tilda.ws
 watt-inc.net
@@ -94113,7 +94097,6 @@ web.teiegrem.org
 web.unltd.info
 web.vindicosuite.com #[WebBug]
 web.vintd-co-uk.com
-web.vortex.data.microsoft.com
 web.whssapp-kf.info
 web.yuppipuppy.com
 web0.track.appier.net
@@ -94520,7 +94503,6 @@ weryfikacja.system-pocztowy.space
 weryfikacjakontaml.com
 weryfikacjaodaml.com
 weryfikacjaonline.com
-wes.df.telemetry.microsoft.com
 wesellallitems.com
 weshipusainc.com
 wesleytrustfirm.com
@@ -122430,8 +122412,6 @@ www.googleadclicks.com
 www.googleadservices.com
 www.googleappsheet.com
 www.googleguides.com
-www.googletagmanager.com
-www.googletagservices.com
 www.googlew.com
 www.googlre.com
 www.googlwe.com
